@@ -1,4 +1,4 @@
-Shader "Solutena/RadialDistortion"
+Shader "Solutena/Screen/RadialDistortion"
 {
 	Properties
 	{
